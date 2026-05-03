@@ -1,0 +1,22 @@
+/* Custom Styling */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Card spacing */
+.card {
+    border-radius: 12px;
+}
+
+/* Result styling */
+#result {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Button hover effect (extra over Bootstrap) */
+button:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
